@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+	<title>Covid Chatbot</title>
+	<h1>Welcome to CovidBot</h1>
+	<h2>Please enter your COVID-19 question below:</h2>
+	<form method="POST">
+		{# This hidden_tag is a CSRF security feature. #}
+	    {{ form.hidden_tag() }}
+	    Question {{form.question}}
+	    <br>
+ 	   {{ form.submit() }}
+	</form>
+	<p>{{answer}}</p>
+</head>
+</html>
