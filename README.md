@@ -2,6 +2,8 @@
 
 ##THIS IS NOT ORGANIZED WHATSOEVER NOR IS IT SUPPOSED TO BE USED TO REPRODUCE MY PROJECT
 
+####### Link to paper for this model: https://docs.google.com/document/d/17xvQ9oqAxYkmivXkwlxFJhzYbnWoeELKuw3rGLV_HQU/edit?usp=sharing
+
 I just thought I should upload my project to GitHub and so I made this repo back in 2020 but everything ended up so disorganized and in different files that I never actually uploaded it.
 Now come 2022, I had the feeling to upload everything except I no longer know which files were the ones in the final project.
 I am simply guessing that the uploaded files were used therefore this will almost definitely not work if you just try to run stuff.
